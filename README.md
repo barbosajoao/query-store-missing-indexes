@@ -43,4 +43,4 @@ GO
 
 ## License
 
-:warning: License pending original author approval.
+MIT License — see [LICENSE](LICENSE) file.
